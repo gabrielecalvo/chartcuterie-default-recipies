@@ -1,0 +1,101 @@
+{
+    "id": "002",
+    "name": "Chocolate Chip Cookies",
+    "source_url": "https://example.com/recipes/chocolate-chip-cookies",
+    "image_url": "https://handletheheat.com/wp-content/uploads/2018/02/BAKERY-STYLE-CHOCOLATE-CHIP-COOKIES-6.jpg",
+    "tasks": [
+        {
+            "id": "1",
+            "name": "Prep Ingredients",
+            "icon": "🥄",
+            "description": "Measure out all ingredients and bring butter and eggs to room temperature.",
+            "start": "00:00:00",
+            "end": "00:15:00"
+        },
+        {
+            "id": "2",
+            "name": "Cream Butter & Sugar",
+            "icon": "🧈",
+            "description": "Beat softened butter with brown and white sugar until light and fluffy.",
+            "start": "00:15:00",
+            "end": "00:20:00"
+        },
+        {
+            "id": "3",
+            "name": "Add Eggs & Vanilla",
+            "icon": "🥚",
+            "description": "Beat in eggs one at a time, then add vanilla extract.",
+            "start": "00:20:00",
+            "end": "00:23:00"
+        },
+        {
+            "id": "4",
+            "name": "Mix Dry Ingredients",
+            "icon": "🌾",
+            "description": "Whisk together flour, baking soda, and salt in a separate bowl.",
+            "start": "00:23:00",
+            "end": "00:25:00"
+        },
+        {
+            "id": "5",
+            "name": "Combine & Add Chips",
+            "icon": "🍫",
+            "description": "Gradually mix dry ingredients into wet, then fold in chocolate chips.",
+            "start": "00:25:00",
+            "end": "00:30:00"
+        },
+        {
+            "id": "6",
+            "name": "Chill Dough",
+            "icon": "❄️",
+            "description": "Cover and refrigerate dough for best results.",
+            "start": "00:30:00",
+            "end": "01:30:00"
+        },
+        {
+            "id": "7",
+            "name": "Bake Cookies",
+            "icon": "🍪",
+            "description": "Drop rounded tablespoons onto baking sheets and bake until golden brown.",
+            "start": "01:30:00",
+            "end": "01:42:00"
+        }
+    ],
+    "ingredients": [
+        {
+            "id": 1,
+            "name": "All-Purpose Flour",
+            "quantity": 280.0,
+            "unit": "g",
+            "qualifier": "sifted"
+        },
+        {
+            "id": 2,
+            "name": "Butter",
+            "quantity": 230.0,
+            "unit": "g",
+            "qualifier": "softened"
+        },
+        {
+            "id": 3,
+            "name": "Brown Sugar",
+            "quantity": 200.0,
+            "unit": "g",
+            "qualifier": "packed"
+        },
+        {
+            "id": 4,
+            "name": "Chocolate Chips",
+            "quantity": 340.0,
+            "unit": "g",
+            "qualifier": "semi-sweet"
+        },
+        {
+            "id": 5,
+            "name": "Eggs",
+            "quantity": 2.0,
+            "unit": "piece",
+            "qualifier": "large"
+        }
+    ]
+} 

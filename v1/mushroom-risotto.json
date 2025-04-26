@@ -1,0 +1,93 @@
+{
+    "id": "001",
+    "name": "Mushroom Risotto",
+    "source_url": "https://example.com/recipes/mushroom-risotto",
+    "image_url": "https://i.redd.it/pwn12304o1m41.jpg",
+    "tasks": [
+        {
+            "id": "1",
+            "name": "Prepare Mushrooms",
+            "icon": "🍄",
+            "description": "Clean and slice mushrooms. Soak dried porcini in hot water.",
+            "start": "00:00:00",
+            "end": "00:05:00"
+        },
+        {
+            "id": "2",
+            "name": "Sauté Onions",
+            "icon": "🧅",
+            "description": "Heat oil and butter, sauté finely chopped onions until translucent.",
+            "start": "00:05:00",
+            "end": "00:10:00"
+        },
+        {
+            "id": "3",
+            "name": "Toast Rice",
+            "icon": "🍚",
+            "description": "Add arborio rice and toast until edges become translucent.",
+            "start": "00:10:00",
+            "end": "00:13:00"
+        },
+        {
+            "id": "4",
+            "name": "Add Wine",
+            "icon": "🍷",
+            "description": "Pour in white wine and stir until absorbed.",
+            "start": "00:13:00",
+            "end": "00:15:00"
+        },
+        {
+            "id": "5",
+            "name": "Cook Rice",
+            "icon": "♨️",
+            "description": "Gradually add hot stock, stirring constantly until rice is creamy and al dente.",
+            "start": "00:15:00",
+            "end": "00:35:00"
+        },
+        {
+            "id": "6",
+            "name": "Finish Risotto",
+            "icon": "🧀",
+            "description": "Stir in mushrooms, parmesan, butter, and season to taste.",
+            "start": "00:35:00",
+            "end": "00:40:00"
+        }
+    ],
+    "ingredients": [
+        {
+            "id": 1,
+            "name": "Arborio Rice",
+            "quantity": 300.0,
+            "unit": "g",
+            "qualifier": null
+        },
+        {
+            "id": 2,
+            "name": "Mushrooms",
+            "quantity": 400.0,
+            "unit": "g",
+            "qualifier": "sliced"
+        },
+        {
+            "id": 3,
+            "name": "Onion",
+            "quantity": 1.0,
+            "unit": "piece",
+            "qualifier": "finely chopped"
+        },
+        {
+            "id": 4,
+            "name": "White Wine",
+            "quantity": 120.0,
+            "unit": "ml",
+            "qualifier": null
+        },
+        {
+            "id": 5,
+            "name": "Parmesan",
+            "quantity": 50.0,
+            "unit": "g",
+            "qualifier": "grated"
+        }
+    ]
+} 

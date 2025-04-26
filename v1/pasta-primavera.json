@@ -1,0 +1,93 @@
+{
+    "id": "003",
+    "name": "Pasta Primavera",
+    "source_url": "https://example.com/recipes/pasta-primavera",
+    "image_url": "https://www.cookingclassy.com/wp-content/uploads/2018/09/pasta-primavera-2.jpg",
+    "tasks": [
+        {
+            "id": "1",
+            "name": "Boil Water",
+            "icon": "💧",
+            "description": "Bring a large pot of salted water to boil for the pasta.",
+            "start": "00:00:00",
+            "end": "00:08:00"
+        },
+        {
+            "id": "2",
+            "name": "Prep Vegetables",
+            "icon": "🥕",
+            "description": "Chop broccoli, carrots, bell peppers, and zucchini into bite-sized pieces.",
+            "start": "00:00:00",
+            "end": "00:10:00"
+        },
+        {
+            "id": "3",
+            "name": "Cook Pasta",
+            "icon": "🍝",
+            "description": "Add pasta to boiling water and cook until al dente.",
+            "start": "00:08:00",
+            "end": "00:18:00"
+        },
+        {
+            "id": "4",
+            "name": "Sauté Garlic",
+            "icon": "🧄",
+            "description": "Heat olive oil and sauté minced garlic until fragrant.",
+            "start": "00:10:00",
+            "end": "00:12:00"
+        },
+        {
+            "id": "5",
+            "name": "Cook Vegetables",
+            "icon": "🥦",
+            "description": "Add vegetables to the pan and cook until tender-crisp.",
+            "start": "00:12:00",
+            "end": "00:18:00"
+        },
+        {
+            "id": "6",
+            "name": "Combine & Season",
+            "icon": "🌿",
+            "description": "Toss pasta with vegetables, olive oil, herbs, and parmesan. Season to taste.",
+            "start": "00:18:00",
+            "end": "00:20:00"
+        }
+    ],
+    "ingredients": [
+        {
+            "id": 1,
+            "name": "Pasta",
+            "quantity": 500.0,
+            "unit": "g",
+            "qualifier": "penne or fusilli"
+        },
+        {
+            "id": 2,
+            "name": "Mixed Vegetables",
+            "quantity": 600.0,
+            "unit": "g",
+            "qualifier": "bite-sized pieces"
+        },
+        {
+            "id": 3,
+            "name": "Olive Oil",
+            "quantity": 60.0,
+            "unit": "ml",
+            "qualifier": "extra virgin"
+        },
+        {
+            "id": 4,
+            "name": "Garlic",
+            "quantity": 3.0,
+            "unit": "clove",
+            "qualifier": "minced"
+        },
+        {
+            "id": 5,
+            "name": "Parmesan",
+            "quantity": 50.0,
+            "unit": "g",
+            "qualifier": "freshly grated"
+        }
+    ]
+} 
